@@ -6,4 +6,4 @@ This is a fun project to learn how the computer works. Inspired by [Ben Eater an
 
 ## Current Features
 
-* Realtime adjustable clock
+* Realtime adjustable [clock](/Clock/README.md)
