@@ -7,3 +7,11 @@
 ## Các Tính Năng Hiện Có
 
 * Clock module có thể thay đổi tốc độ
+
+## Việc cần làm
+
+### Clock module
+
+- [ ] Viết hướng dẫn về SR latch
+
+- [ ] Tạo nút điều khiển Clock thủ công
