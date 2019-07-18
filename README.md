@@ -7,3 +7,11 @@ This is a fun project to learn how the computer works. Inspired by [Ben Eater an
 ## Current Features
 
 * Realtime adjustable [clock](/Clock/README.md)
+
+## To do
+
+### Clock module
+
+- [] Writing SR latch guide
+
+- [] Manual control the clock
