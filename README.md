@@ -12,6 +12,5 @@ This is a fun project to learn how the computer works. Inspired by [Ben Eater an
 
 ### Clock module
 
-- [] Writing SR latch guide
+- [x] Create a new project
 
-- [] Manual control the clock
