@@ -15,3 +15,5 @@ This is a fun project to learn how the computer works. Inspired by [Ben Eater an
 - [ ] Writing SR latch guide
 
 - [ ] Create Manual Clock Control
+
+- [ ] ABC
